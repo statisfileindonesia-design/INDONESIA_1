@@ -2,7 +2,7 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "INDONESIA_1",
-  "total": 11,
+  "total": 16,
   "data": [
     {
       "NAMAE": "QVRcVVkZSVRZUEQUUlBXQVMVXlsRWlZYV1tEFFBSTA==",
@@ -69,8 +69,38 @@
       "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBgEWDgAdBWpzaE97b0VqXxpbSV4=",
       "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfUVUWCQEdfkhGBHBrfn9qXxpbSV4=",
       "LINK": "AwEAAwQKAQQBAAMECAg="
+    },
+    {
+      "NAMAE": "ZVRcVUQZe0BZVF4Ue1ZdWloVZFtdVldS",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfUAcWW1YdYl1FU3gNcGFqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfAVAWDwEdUFxQfQtwc2FqXxpbSV4=",
+      "LINK": "AwEBBgcKAQYBBQMGCAA="
+    },
+    {
+      "NAMAE": "ZkdRTVRSGXZbW0RVEXRcW0dfRRR5WE1cX0A=",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfDFIWWwEdYWFbdlgBcnxqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfUAEWAQYdcElXCXRyBHtqXxpbSV4=",
+      "LINK": "AwEBBgcBCwUABgEMAAg="
+    },
+    {
+      "NAMAE": "cVBHUVoZfVxBVENAVEsZZVNdUVkRelhHUxV2bWEZfVwSfVFAWFJM",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBAgWAAMdXXRDUl4KTHdqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfVwgWDwMdVn1WAVgBY1dqXxpbSV4=",
+      "LINK": "AwEBBgYNCwYGDAACCAg="
+    },
+    {
+      "NAMAE": "eVBSQV8Ze0BcUlEUc1xLWFdeUUYRelBbRlQ=",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfUAQWWwUdY3lzYn13A3tqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBQUWDA0dbXZhQA9MbHVqXxpbSV4=",
+      "LINK": "AwEBBgYBDQIDDQANAgg="
+    },
+    {
+      "NAMAE": "YVBHVV9eUBVxXF5AUBlpUFxfRVVdGXtAXFJR",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfDQIWXwQdRVMBRXcODGJqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfUAAWXAAdcVt7e3cAQ3RqXxpbSV4=",
+      "LINK": "AwEBBgkLCwADBwcEBQo="
     }
   ],
-  "lastSync": "2026-06-16T15:55:38.317Z",
+  "lastSync": "2026-06-17T16:25:26.844Z",
   "note": ""
 }

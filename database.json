@@ -2,7 +2,7 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "INDONESIA_1",
-  "total": 17,
+  "total": 18,
   "data": [
     {
       "NAMAE": "QVRcVVkZSVRZUEQUUlBXQVMVXlsRWlZYV1tEFFBSTA==",
@@ -105,8 +105,14 @@
       "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfAwIWDAAdZ1Z8RG9sTwtqXxpbSV4=",
       "SINOPSIS": "WkFEREIDFhpGXUVZU0oLG1tYV1ZeQRdWXVgfB1UWWAMde2MBUHBsUGNqRBpbSV4=",
       "LINK": "AwEBDAQNAQwBAwkDAgg="
+    },
+    {
+      "NAMAE": "eVRdQRFdWFsScVlVEXVcXUdSUQ==",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfVVIWAAcdVAdhYmpwRn9qXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBVMWWAcdfkl/dVJ0UEFqXxpbSV4=",
+      "LINK": "AwEEDAgLDAEEBwcNBgg="
     }
   ],
-  "lastSync": "2026-06-18T16:57:25.568Z",
+  "lastSync": "2026-06-20T19:55:05.164Z",
   "note": ""
 }
